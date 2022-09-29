@@ -18,11 +18,11 @@ body {
   }
 
   .second {
-    background: url("http://dash.ga.co/assets/secondcourse.jpg")
+    background: url("https://ga-dash.s3.amazonaws.com/production/assets/secondcourse.jpg")
   }
 
   .dessert {
-    background: url("http://dash.ga.co/assets/dessertcourse.jpg")
+    background: url("https://ga-dash.s3.amazonaws.com/production/assets/dessertcourse.jpg")
   }
 
   p {
