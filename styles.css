@@ -14,7 +14,7 @@ body {
   }
 
   .first {
-    background: url("http://dash.ga.co/assets/firstcourse.jpg");
+    background: url("https://ga-dash.s3.amazonaws.com/production/assets/firstcourse.jpg");
   }
 
   .second {
